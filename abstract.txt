@@ -1,0 +1,23 @@
+	Spam Detection with Neural Networks
+
+Eine kurze Zusammenfassung was ich in meiner Bacherlor-Arbeit tun will:
+
+Das Social Bookmarking System "Bibsonomy" hat ein Problem mit Spam. Privatfirmen versuchen den hohen Pagerank von
+Bibsonomy zu nutzen um ihre Produkte besser sichtbar zu machen. Zu diesem Problem gab es schon 2008 ein Paper von Puppe usw.
+Dabei wurde versucht auf Nutzer Level Spammer zu erkennen. Es wurde klassische Machine-Learning Algorithmen, wie State-Vector
+Machine, naive Bayes , usw. die Nutzer zu klassifizieren. Es wurde ein f-Wert von x erreicht.
+
+In meiner Bacherlor-Arbeit will ich untersuchen inwieweit man diese Vorgehensweise mit NN verbessern kann. Diese können 
+auch dazu verwendet werden auf Post-Level Spam zu identifizieren. Damit deckt man den Fall ab dass Nutzer nicht ausschließlich
+Spam posten. 
+
+Zum Training der neuronalen Netze liegen folgende Daten vor: XXX
+
+Die neuronalen Netze sollen mithilfe des Frameworks XXX erstellt und trainiert werden.
+
+Um die Leistung des NN zu vergleichen wird XXX als Baseline verwendet.
+
+
+
+
+

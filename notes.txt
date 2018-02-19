@@ -1,11 +1,11 @@
 
 
-
-
-
 Next Meeting with Mr. Zoller
 
 - what Framework should/can be used ? What are you using ?
 - Spam detection on Post level right ?
 - How will I get data, in which Format ?
+
+
+
 
